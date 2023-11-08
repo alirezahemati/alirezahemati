@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alireza-hemati" target="blank"><img align="center" src="https://camo.githubusercontent.com/41f25d708923314efaaab3d8cbc5658091ac0e0d8b3aeaaefffea1e401ca27ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d6630663066303f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d306537366138" alt="alireza-hemati" height="111" width="28" /></a>
+<a href="https://linkedin.com/in/alireza-hemati" target="blank"><img src="https://camo.githubusercontent.com/41f25d708923314efaaab3d8cbc5658091ac0e0d8b3aeaaefffea1e401ca27ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d6630663066303f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d306537366138" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-f0f0f0?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=0e76a8" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
