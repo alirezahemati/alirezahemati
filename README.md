@@ -3,7 +3,7 @@ Software Engineer with more than 5 years of experience in front-end development,
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/alireza-hemati/)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/alirezaa_hemati)
-[![Outlook](https://img.shields.io/badge/outlook-f0f0f0?&style=for-the-badge&logo=outlook&logoColor=white&color=ea4335)](mailto:alirezahemati73@outlook.com) 
+[![Outlook](https://img.shields.io/badge/outlook-f0f0f0?&style=for-the-badge&logo=outlook&logoColor=white&color=29AFF5)](mailto:alirezahemati73@outlook.com) 
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16249937/alireza-hemati)
 [![Alireza Hemati](https://img.shields.io/badge/personal%20website-f0f0f0?&style=for-the-badge&logoColor=white&color=1a1d24)](https://alireza-hemati.ir)
 
